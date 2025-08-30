@@ -4,15 +4,15 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        for(int i=0; i<m; i++) {
-            int last = matrix[i][n-1];
+        int row = 0;
+        int col = n-1;
 
-            if(last < target) {
-                continue;
+        while(row < m && col >= 0) {
+            if(matrix[row][col] == target) return true;
+            else if(matrix[row][col] > target) {
+                col--;
             }else {
-                for(int j=0; j<n; j++) {
-                    if(matrix[i][j] == target) return true;
-                }
+                row++;
             }
         }
         return false;
