@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/0260-single-number-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/piyushrana31/leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/piyushrana31/leetcode_ques/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
