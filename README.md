@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/0260-single-number-iii) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrana31/leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/piyushrana31/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -128,9 +130,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrana31/leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrana31/leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
