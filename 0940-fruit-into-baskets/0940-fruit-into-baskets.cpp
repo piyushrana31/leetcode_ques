@@ -7,26 +7,18 @@ public:
         int l = 0, r = 0, maxFruits = 0;
 
         while(r < n) {
-            if(mpp.find(fruits[r]) != mpp.end()) {
-                mpp[fruits[r]]++;
-            }else {
-                mpp[fruits[r]] = 1;
-            }
+            mpp[fruits[r]]++;
 
-            if(mpp.size() <= 2) {
-                maxFruits = max(maxFruits, r-l+1);
-                r++;
-            }else {
-                while(mpp.size() > 2) {
-                    mpp[fruits[l]]--;
-                    if(mpp[fruits[l]] == 0) {
-                        mpp.erase(fruits[l]);
-                    }
-                    l++;
+            
+            while(mpp.size() > 2) {
+                mpp[fruits[l]]--;
+                if(mpp[fruits[l]] == 0) {
+                    mpp.erase(fruits[l]);
                 }
-                maxFruits = max(maxFruits, r-l+1);
-                r++;
+                l++;
             }
+            maxFruits = max(maxFruits, r-l+1);
+            r++;
         }
         return maxFruits;
     }
