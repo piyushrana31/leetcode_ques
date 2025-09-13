@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrana31/leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/piyushrana31/leetcode_ques/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/piyushrana31/leetcode_ques/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrana31/leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -149,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrana31/leetcode_ques/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
