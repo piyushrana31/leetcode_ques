@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyushrana31/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0136-single-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/piyushrana31/leetcode_ques/tree/master/0141-linked-list-cycle) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
