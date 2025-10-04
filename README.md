@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyushrana31/leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
