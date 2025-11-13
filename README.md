@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/0260-single-number-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyushrana31/leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/piyushrana31/leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/piyushrana31/leetcode_ques/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
