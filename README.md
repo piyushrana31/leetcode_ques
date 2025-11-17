@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/piyushrana31/leetcode_ques/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushrana31/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0137-single-number-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushrana31/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
