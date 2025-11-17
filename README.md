@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/piyushrana31/leetcode_ques/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/piyushrana31/leetcode_ques/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0118-pascals-triangle) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/piyushrana31/leetcode_ques/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
