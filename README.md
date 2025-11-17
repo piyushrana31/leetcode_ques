@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/piyushrana31/leetcode_ques/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushrana31/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0136-single-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/piyushrana31/leetcode_ques/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/piyushrana31/leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0148-sort-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/piyushrana31/leetcode_ques/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
