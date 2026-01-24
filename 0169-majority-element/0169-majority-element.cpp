@@ -3,19 +3,20 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
 
-        int count=0;
-        int el = nums[0];
+        int count = 0;
+        int majorityEle = nums[0];
 
         for(int i=0; i<n; i++) {
             if(count==0) {
+                majorityEle = nums[i];
                 count=1;
-                el=nums[i];
-            }else if(el==nums[i]) {
+            }else if(majorityEle == nums[i]) {
                 count++;
-            }else {
+            }else{
                 count--;
             }
         }
-        return el;
+
+        return majorityEle;
     }
 };
