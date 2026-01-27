@@ -8,8 +8,8 @@ public:
 
         for(int i=1; i<n; i++) {
             int cost = prices[i] - mini;
+            mini = min(mini, prices[i]);
             profit = max(profit, cost);
-            mini = min(prices[i], mini);
         }
 
         return profit;
