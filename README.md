@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyushrana31/leetcode_ques/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
