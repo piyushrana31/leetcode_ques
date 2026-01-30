@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/piyushrana31/leetcode_ques/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/piyushrana31/leetcode_ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/piyushrana31/leetcode_ques/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
