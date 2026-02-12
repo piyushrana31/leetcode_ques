@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0410-split-array-largest-sum) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
