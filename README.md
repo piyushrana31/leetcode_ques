@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/piyushrana31/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushrana31/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 ## Queue
 |  |
