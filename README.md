@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrana31/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/piyushrana31/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/piyushrana31/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 ## Sorting
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/piyushrana31/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union-Find
