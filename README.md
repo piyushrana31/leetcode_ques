@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piyushrana31/leetcode_ques/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/piyushrana31/leetcode_ques/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushrana31/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/piyushrana31/leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushrana31/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushrana31/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushrana31/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushrana31/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0410-split-array-largest-sum) |
