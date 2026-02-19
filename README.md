@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/piyushrana31/leetcode_ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrana31/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/piyushrana31/leetcode_ques/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
