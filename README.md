@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyushrana31/leetcode_ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/piyushrana31/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/piyushrana31/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/piyushrana31/leetcode_ques/tree/master/0901-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/piyushrana31/leetcode_ques/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
