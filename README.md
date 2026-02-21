@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyushrana31/leetcode_ques/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
