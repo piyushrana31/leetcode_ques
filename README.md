@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrana31/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0567-permutation-in-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 ## Design
@@ -342,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
