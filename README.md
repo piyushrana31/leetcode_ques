@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/piyushrana31/leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/piyushrana31/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/piyushrana31/leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/piyushrana31/leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyushrana31/leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/piyushrana31/leetcode_ques/tree/master/0231-power-of-two) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/piyushrana31/leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/piyushrana31/leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/piyushrana31/leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
