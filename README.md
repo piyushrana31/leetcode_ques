@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushrana31/leetcode_ques/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/piyushrana31/leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
