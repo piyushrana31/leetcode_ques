@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/piyushrana31/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/piyushrana31/leetcode_ques/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/piyushrana31/leetcode_ques/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/piyushrana31/leetcode_ques/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -380,14 +382,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
