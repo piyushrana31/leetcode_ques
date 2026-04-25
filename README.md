@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1034-subarrays-with-k-different-integers](https://github.com/piyushrana31/leetcode_ques/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushrana31/leetcode_ques/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/piyushrana31/leetcode_ques/tree/master/1370-count-number-of-nice-subarrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/piyushrana31/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/piyushrana31/leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyushrana31/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/piyushrana31/leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/piyushrana31/leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/piyushrana31/leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,4 +430,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/piyushrana31/leetcode_ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/piyushrana31/leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/piyushrana31/leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
