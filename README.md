@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyushrana31/leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushrana31/leetcode_ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrana31/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0661-image-smoother](https://github.com/piyushrana31/leetcode_ques/tree/master/0661-image-smoother) |
 | [0735-asteroid-collision](https://github.com/piyushrana31/leetcode_ques/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrana31/leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/piyushrana31/leetcode_ques/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/piyushrana31/leetcode_ques/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0661-image-smoother](https://github.com/piyushrana31/leetcode_ques/tree/master/0661-image-smoother) |
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
