@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/2047-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/piyushrana31/leetcode_ques/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/piyushrana31/leetcode_ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/piyushrana31/leetcode_ques/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/piyushrana31/leetcode_ques/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/piyushrana31/leetcode_ques/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/piyushrana31/leetcode_ques/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/piyushrana31/leetcode_ques/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/piyushrana31/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/piyushrana31/leetcode_ques/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/piyushrana31/leetcode_ques/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
 |  |
 | ------- |
