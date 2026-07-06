@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/piyushrana31/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/piyushrana31/leetcode_ques/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/piyushrana31/leetcode_ques/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/piyushrana31/leetcode_ques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/piyushrana31/leetcode_ques/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/piyushrana31/leetcode_ques/tree/master/0402-remove-k-digits) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushrana31/leetcode_ques/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/piyushrana31/leetcode_ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrana31/leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/piyushrana31/leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/piyushrana31/leetcode_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushrana31/leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/piyushrana31/leetcode_ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/piyushrana31/leetcode_ques/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/piyushrana31/leetcode_ques/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/piyushrana31/leetcode_ques/tree/master/0455-assign-cookies) |
